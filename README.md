@@ -55,6 +55,19 @@ A Python-based expert system that uses predefined rules to provide decisions and
 
 🔗 "View Repository" (https://github.com/nishataranobani/Syntecxhub_Rule_Based_Expert_System)
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishataranobani&show_icons=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishataranobani&layout=compact&langs_count=8" height="180"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nishataranobani" />
+</p>
+
 🏆 Certifications & Learning
 
 - AI-Powered A/B Testing — SoloLearn | 2026
