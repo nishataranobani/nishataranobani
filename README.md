@@ -58,7 +58,6 @@ A Python-based expert system that uses predefined rules to provide decisions and
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishataranobani&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
 </p>
 
 <p align="center">
