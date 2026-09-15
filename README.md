@@ -59,7 +59,11 @@ A Python-based expert system that uses predefined rules to provide decisions and
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nishataranobani&show_icons=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishataranobani&layout=compact&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishataranobani&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishataranobani&layout=compact&langs_count=5&hide=html,css&cache_seconds=1800" height="180"/>
 </p>
 
 ## 🔥 GitHub Streak
